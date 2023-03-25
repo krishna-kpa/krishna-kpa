@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**krishna-kpa/krishna-kpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Krishna Prasad A, Currently pursuing my b.tech in computer science and engineering at Rajiv Gandhi Institute Of Technology Kottayam.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on profile building
+- 🌱 I’m currently learning, everything that i can 😁
+- 👯 I’m looking to collaborate on new project
+- 🤔 I’m looking for help with ml
+- 💬 Ask me about computer science engineering
+- 📫 How to reach me: kpa.krishnaprasada@gmail.com
+
