@@ -6,10 +6,10 @@ I am Krishna Prasad A, Currently pursuing my b.tech in computer science and engi
 
 
 
-- 🔭 I’m currently working
+- 🔭 I’m currently working mern projects
 - 🌱 I’m currently learning node js and react js
 - 👯 I’m looking to collaborate on new project
 - 🤔 I’m looking for help with ml
-- 💬 Ask me about computer science engineering
+- 💬 Ask me about Mern
 - 📫 How to reach me: kpa.krishnaprasada@gmail.com
 
