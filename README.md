@@ -14,3 +14,4 @@ I am Krishna Prasad A, Currently pursuing my b.tech in computer science and engi
 - 📫 How to reach me: kpa.krishnaprasada@gmail.com
 
 ## 📊 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-kpa)](https://github.com/anuraghazra/github-readme-stats)
