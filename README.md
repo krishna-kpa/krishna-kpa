@@ -16,3 +16,6 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 
 ## 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-kpa)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 Wakatime Stats:
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishna-kpa)](https://github.com/anuraghazra/github-readme-stats)
