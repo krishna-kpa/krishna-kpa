@@ -19,3 +19,4 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 
 ## 📊 Wakatime Stats:
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishna_kpa)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/5f2e8c03-c4d5-49d1-a298-fa70a2f52baf.svg)](https://wakatime.com/@5f2e8c03-c4d5-49d1-a298-fa70a2f52baf)
