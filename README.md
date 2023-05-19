@@ -14,6 +14,10 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 - 📫 How to reach me: kpa.krishnaprasada@gmail.com
 -    Twitter: https://twitter.com/krishna_kpa
 
+## My Coding Profiles
+1. HackerRank : https://www.hackerrank.com/krishnaprasad_k5
+2. Leet Code  : https://leetcode.com/user1336xq/
+
 ## 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-kpa)](https://github.com/anuraghazra/github-readme-stats)
 
