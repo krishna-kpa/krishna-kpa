@@ -13,7 +13,7 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 - 💬 Ask me about Mern
 - 📫 How to reach me: kpa.krishnaprasada@gmail.com
 -    Twitter: https://twitter.com/krishna_kpa
-
+## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,jquery,mongodb,mysql,nodejs,express,py,c" />
