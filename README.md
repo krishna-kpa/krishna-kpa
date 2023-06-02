@@ -29,3 +29,22 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-kpa)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kpa&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-kpa"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=krishna-kpa&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kpa&langs_count=10&layout=compact&hide=jupyter%20notebook,html,css"/>
+        </td>
+    </tr>
+</table>
