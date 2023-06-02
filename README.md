@@ -21,7 +21,7 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 </p>
 
 ## My Coding Profiles
-1. HackerRank : https://www.hackerrank.com/krishnaprasad_k5
+1. HackerRank : https://www.hackerrank.com/KrishnaPrasad_A
 2. Leet Code  : https://leetcode.com/user1336xq/
 3. GeeksforGeeks : https://auth.geeksforgeeks.org/user/krishnaprasadkp9048/practice
 
