@@ -8,7 +8,7 @@ I am Krishna Prasad A, Currently pursuing B.tech in computer science and enginee
 
 
 - 🔭 I’m currently working mern projects
-- 🌱 I’m currently machine learning
+- 🌱 I’m currently learning machine learning
 - 👯 I’m working on collaborative project E-Class
 - 🤔 I’m looking for help with ml
 - 💬 Ask me about Mern
