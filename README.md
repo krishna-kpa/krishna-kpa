@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/krishna-kpa/krishna-kpa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/krishna-kpa/output/snake.svg" alt="Snake animation" />
 
 ###
