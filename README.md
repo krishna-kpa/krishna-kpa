@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Prasad A</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
+Uploading Profile Video.mp4…
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-kpa&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-kpa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa" alt="krishna-kpa" /></a> </p>
