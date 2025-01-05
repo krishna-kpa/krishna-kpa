@@ -1,5 +1,4 @@
-
-<p align="left"> <img src="https://drive.google.com/file/d/17oRA64DTsyj4tTdMt8933hzQbLBHQkz3/view?usp=sharing" alt="krishna-kpa" /> </p>
+![Profile Video](https://drive.google.com/file/d/17oRA64DTsyj4tTdMt8933hzQbLBHQkz3/view)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa" alt="krishna-kpa" /></a> </p>
 
