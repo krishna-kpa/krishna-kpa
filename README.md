@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/f83ae010-ccd2-4ac0-92ec-60356d4e5d1a
+![Profile Video](https://github.com/user-attachments/assets/f83ae010-ccd2-4ac0-92ec-60356d4e5d1a)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-kpa&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-kpa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa" alt="krishna-kpa" /></a> </p>
