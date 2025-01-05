@@ -1,5 +1,5 @@
-![Profile Video](https://github.com/user-attachments/assets/3efb2744-f792-42bc-a8aa-09d6da5abe8b)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-kpa&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-kpa" /> </p>
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=krishna-kpa&label=Profile%20views&color=0e75b6&style=flat](https://drive.google.com/file/d/17oRA64DTsyj4tTdMt8933hzQbLBHQkz3/view?usp=sharing)" alt="krishna-kpa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa" alt="krishna-kpa" /></a> </p>
 
