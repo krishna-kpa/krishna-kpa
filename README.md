@@ -1,5 +1,5 @@
-[![Profile Video](https://drive.google.com/uc?export=view&id=17oRA64DTsyj4tTdMt8933hzQbLBHQkz3)
-](https://github.com/krishna-kpa/krishna-kpa/blob/main/profile-video.gif)
+![Profile Video](https://github.com/krishna-kpa/krishna-kpa/blob/main/profile-video.gif?raw=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-kpa" alt="krishna-kpa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krishna_kpa" target="blank"><img src="https://img.shields.io/twitter/follow/krishna_kpa?logo=twitter&style=for-the-badge" alt="krishna_kpa" /></a> </p>
